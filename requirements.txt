@@ -1,10 +1,9 @@
+streamlit
+scikit-learn
 pandas
 numpy
-scikit-learn
 nltk
-streamlit
-kagglehub
 joblib
-matplotlib
-seaborn
-wordcloud
+plotly
+transformers
+torch
