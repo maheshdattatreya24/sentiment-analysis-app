@@ -101,17 +101,17 @@ Positive 😊
 ## 📸 Application Preview
 
 ### 🏠 Home Page
-![Home](assets/home.png)
+![Home](home.png)
 
 ---
 
 ### 📊 Sentiment Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
 ### 🐦 Live Sentiment Analysis
-![Twitter](assets/twitter.png)
+![Twitter](twitter.png)
 
 
 ## 🎯 Project Objective
