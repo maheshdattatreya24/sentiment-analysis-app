@@ -97,6 +97,23 @@ Positive 😊
 
 ---
 
+
+## 📸 Application Preview
+
+### 🏠 Home Page
+![Home](assets/home.png)
+
+---
+
+### 📊 Sentiment Dashboard
+![Dashboard](assets/dashboard.png)
+
+---
+
+### 🐦 Live Sentiment Analysis
+![Twitter](assets/twitter.png)
+
+
 ## 🎯 Project Objective
 
 The main objective of this project is to:
