@@ -7,7 +7,7 @@ This project is a **Machine Learning-based web application** that performs senti
 The application is built using **Natural Language Processing (NLP)** techniques and deployed through an interactive **Streamlit web interface**.
 
 ---
-
+   
 ## 🚀 Features
 
 * ✅ Real-time sentiment prediction from user input
